@@ -31,7 +31,7 @@ The **Product CRUD Inventory Application** is a web-based application designed t
 1. **Clone the repository**:
     ```sh
     git clone https://github.com/Dhareppahalli310807/Inventory_Application-Project.git
-    cd product-crud
+    cd Inventory_Application-Project
     ```
 
 2. **Install dependencies**:
